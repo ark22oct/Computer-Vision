@@ -32,6 +32,6 @@ This section provides a comprehensive insight into the proposed methods, featuri
 <img width="500" alt="Screen Shot 2024-05-02 at 2 37 54 PM" src="https://github.com/ark22oct/Computer-Vision/assets/77360623/011cd362-70d7-467c-a6df-0757d73661f1">
 
 ### Image segmentation being applied via using a Fuzzy Logic Method
-<img width="444" alt="Screen Shot 2024-05-02 at 2 41 47 PM" src="https://github.com/ark22oct/Computer-Vision/assets/77360623/2dc18c94-d44a-4c6e-93e9-51a12c7a52a4">
+<img width="500" alt="Screen Shot 2024-05-02 at 2 41 47 PM" src="https://github.com/ark22oct/Computer-Vision/assets/77360623/2dc18c94-d44a-4c6e-93e9-51a12c7a52a4">
 
 
